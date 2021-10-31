@@ -1,0 +1,4 @@
+https://weatherstack.com ::: it takes long and lat and generates the weather 
+
+geocoding service: it takes the location name and generates the longitude and latitude for that place!
+https://www.mapbox.com/

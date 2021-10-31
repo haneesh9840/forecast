@@ -1,0 +1,27 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haneesh9840/weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haneesh9840/weather-app/issues"
+  },
+  "homepage": "https://github.com/haneesh9840/weather-app#readme",
+  "description": ""
+}
